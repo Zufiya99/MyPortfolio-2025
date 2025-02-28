@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Quaero",
+    "image": "/assets/quaero.png",
+    "description": "A freelancing project developed for The Quaero company, initially serving as a marketing website. Future plans include hosting cybersecurity SaaS products to enhance digital security solutions.",
+    "liveLink": "https://thequaero.netlify.app/",
+    "repoLink": "https://github.com/Zufiya99/The-Quaero-website.git",
+    "techStack": [
+      "React JS",
+      "Node JS",
+      "Express JS",
+      "MongoDB",
+      "Render",
+      "Netlify",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "name": "MediMeet",
+    "image": "/assets/medimeet.png",
+    "description": "A seamless doctor appointment booking web application that allows users to schedule consultations with healthcare professionals efficiently.",
+    "liveLink": "https://medimeet-webapp.netlify.app/",
+    "repoLink": "https://github.com/Zufiya99/MediMeet-frontend.git",
+    "techStack": ["React JS", "Netlify", "Tailwind CSS"]
+  },
+  {
+    "name": "NextStep AI",
+    "image": "/assets/AI-career-coach.png",
+    "description": "An AI-powered career coaching platform that offers personalized career guidance based on user skills, industry trends, and AI-driven recommendations.",
+    "repoLink": "https://github.com/Zufiya99/NextStep-AI.git",
+    "liveLink": "http://localhost:3000/",
+    "techStack": [
+      "React JS 19",
+      "Next JS 15",
+      "Neon DB",
+      "Prisma",
+      "Tailwind CSS",
+      "Clerk Authentication",
+      "ShadCN",
+      "Gemini AI"
+    ]
+  },
+  {
+    "name": "BlogStack",
+    "image": "/assets/blogStack.png",
+    "description": "A feature-rich blogging platform with an admin panel, allowing users to publish, edit, and manage articles efficiently.",
+    "liveLink": "http://localhost:3000/",
+    "repoLink": "https://github.com/Zufiya99/BlogStack.git",
+    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"]
+  },
+
+  {
+    "name": "VoiceCraft",
+    "image": "/assets/voicecraft.png",
+    "description": "A real-time speech-to-text converter that transcribes spoken words into text using advanced browser-based speech recognition.",
+    "liveLink": "https://voicecraft.netlify.app/",
+    "repoLink": "https://github.com/Zufiya99/Speech-to-text-converter.git",
+    "techStack": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "name": "Speak Wizard",
+    "image": "/assets/speakwizard.png",
+    "description": "A text-to-speech web application that converts written text into lifelike speech, enhancing accessibility and user experience.",
+    "liveLink": "https://speakwizard.netlify.app/",
+    "repoLink": "https://github.com/Zufiya99/Text-to-speech-converter.git",
+    "techStack": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "name": "Quote Generator",
+    "image": "/assets/quote-gen.png",
+    "description": "A dynamic quote generator that provides users with a fresh motivational quote each time they visit.",
+    "liveLink": "https://quote-generator-git-main-zufiyas-projects.vercel.app/",
+    "repoLink": "https://github.com/Zufiya99/Quote-generator",
+    "techStack": ["React JS", "Node JS", "Express JS", "MongoDB"]
+  },
+  {
+    "name": "Spark Quotes Chrome Extension",
+    "image": "/assets/spark-quotes.png",
+    "description": "A Chrome extension delivering daily inspirational quotes using a custom-built API for motivation and productivity.",
+    "repoLink": "https://github.com/Zufiya99/Spark-quotes-chrome-extension.git",
+    "techStack": ["HTML", "CSS", "JavaScript", "Express JS (Custom API)"]
+  },
+  {
+    "name": "Vakil Seva",
+    "image": "/assets/vakilseva.png",
+    "description": "A freelancing legal services platform that connects users with legal professionals for consultation and assistance.",
+    "liveLink": "https://vakil-seva-freelancing-project.vercel.app/",
+    "repoLink": "https://github.com/Zufiya99/Vakil-Seva-freelancing-project",
+    "techStack": ["React JS", "Netlify"]
+  },
+
+  {
+    "name": "SIH Yatra Website",
+    "image": "/assets/Yatra.png",
+    "description": "A web application developed during SIH 2023, aimed at enhancing the user experience for Smart India Hackathon participants and organizers.",
+    "liveLink": "https://sih-dashboard-dusky.vercel.app/",
+    "repoLink": "https://github.com/Zufiya99/SIH-Yatra-website",
+    "techStack": ["React JS", "Vercel"]
+  },
+  {
+    "name": "Drum Kit Game",
+    "image": "/assets/drum-kit-game.png",
+    "description": "An interactive and fun drum kit game built with JavaScript, allowing users to play various drum sounds using keyboard inputs.",
+    "liveLink": "https://drum-kit-game-js.netlify.app/",
+    "repoLink": "https://github.com/Zufiya99/Drum-Kit",
+    "techStack": ["HTML", "CSS", "JavaScript"]
+  },
+
+  {
+    "name": "Keepers App",
+    "image": "/assets/keepers-app.png",
+    "description": "A minimalistic and efficient note-keeping app developed using React, enabling users to store and manage notes.",
+    "liveLink": "https://keeper-app-using-react-js-lac.vercel.app/",
+    "repoLink": "https://github.com/Zufiya99/Keeper-App-using-React.js",
+    "techStack": ["React JS", "Vercel"]
+  },
+  {
+    "name": "Supermarket Data Analysis",
+    "image": "/assets/supermarket-analysis.png",
+    "description": "A data analytics project that provides valuable insights into supermarket sales trends and customer purchasing behavior.",
+    "repoLink": "https://github.com/Zufiya99/Supermarket-data-analysis",
+    "techStack": ["Python", "Jupyter Notebook"]
+  }
+]

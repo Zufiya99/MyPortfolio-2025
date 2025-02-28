@@ -1,52 +1,63 @@
 {
-    "categories": ["All", "Hackathons", "Internships", "Competitions"],
-    "experiences": [
-      {
-        "title": "SIH 2023 Finalist (Hardware Edition)",
-        "category": "Hackathons",
-        "team": "TechTravellers",
-        "date": "Dec 19, 2023 - Dec 23, 2023",
-        "description": "Finalist in the Smart India Hackathon 2023, where we developed an innovative hardware-based solution for the tourism sector, integrating a tourist card, metaverse, and digital twin."
-      },
-      {
-        "title": "Mastek Deep Blue Season 9 (Semi-Finalist)",
-        "category": "Hackathons",
-        "team": "FCS2",
-        "date": "Nov 2023 - May 2024",
-        "description": "Engineered an innovative car parking solution for Mastek, collaborating with a cross-functional team to optimize space usage. Our solution improved parking capacity by 40% under strict deadlines."
-      },
-      {
-        "title": "Mastek Deep Blue Season 10 (Semi-Finalist)",
-        "category": "Hackathons",
-        "team": "SMS13",
-        "date": "Nov 2024 - Present",
-        "description": "Currently working on an AI-driven project to estimate physical attributes and object dimensions from selfies."
-      },
-      {
-        "title": "IIT ResCon Aachar 2024 (Top 10 Teams)",
-        "category": "Competitions",
-        "date": "Jan 13-14, 2024",
-        "description": "Secured 9th place among 100+ submissions in the research presentation competition at ResCon Aachar 2024, held at IIT Bombay."
-      },
-      {
-        "title": "DevIgnite Hackathon",
-        "category": "Hackathons",
-        "date": "2024",
-        "description": "Explored challenges in the cloud and DevOps domains through hands-on problem-solving."
-      },
-      {
-        "title": "Frontend Developer Intern",
-        "category": "Internships",
-        "company": "CNCM LLC",
-        "date": "May 2023 - Nov 2023",
-        "description": "Worked on a GRC (Governance, Risk, and Compliance) automation project, providing a centralized platform for risk management. Key features included POA&M tracking, Jira integration, and an enhanced user interface for seamless interaction. Additionally, I contributed to the CNCM website's enhancements for a major conference presentation."
-      },
-      {
-        "title": "The Quaero – Freelance MERN Developer",
-        "category": "Internships",
-        "date": "Nov 2023 - Present",
-        "description": "Developing 'The Quaero,' a cybersecurity SaaS platform using the MERN stack. Implementing an admin panel, user authentication, and dynamic content management."
-      }
-    ]
-  }
-  
+  "categories": ["All", "Hackathons", "Internships", "Competitions"],
+  "experiences": [
+    {
+      "title": "SIH 2023 Finalist (Hardware Edition)",
+      "category": "Hackathons",
+      "team": "TechTravellers",
+      "date": "Dec 19, 2023 - Dec 23, 2023",
+      "description": "Finalist in the Smart India Hackathon 2023, where we developed an innovative hardware-based solution for the tourism sector, integrating a tourist card, metaverse, and digital twin."
+    },
+    {
+      "title": "Mastek Deep Blue Season 9 (Semi-Finalist)",
+      "category": "Hackathons",
+      "team": "FCS2",
+      "date": "Nov 2023 - May 2024",
+      "description": "Engineered an innovative car parking solution for Mastek, collaborating with a cross-functional team to optimize space usage. Our solution improved parking capacity by 40% under strict deadlines."
+    },
+    {
+      "title": "Mastek Deep Blue Season 10 (Semi-Finalist)",
+      "category": "Hackathons",
+      "team": "SMS13",
+      "date": "Nov 2024 - Present",
+      "description": "Currently working on an AI-driven project to estimate physical attributes and object dimensions from selfies."
+    },
+    {
+      "title": "IIT ResCon Aachar 2024 (Top 10 Teams)",
+      "category": "Competitions",
+      "date": "Jan 13-14, 2024",
+      "description": "Secured 9th place among 100+ submissions in the research presentation competition at ResCon Aachar 2024, held at IIT Bombay."
+    },
+    {
+      "title": "Frontend Developer Intern",
+      "category": "Internships",
+      "company": "CNCM LLC",
+      "date": "May 2023 - Nov 2023",
+      "description": "Worked on a GRC (Governance, Risk, and Compliance) automation project, providing a centralized platform for risk management. Key features included POA&M tracking, Jira integration, and an enhanced user interface for seamless interaction. Additionally, I contributed to the CNCM website's enhancements for a major conference presentation."
+    },
+    {
+      "title": "The Quaero",
+      "category": "Internships",
+      "date": "July 2024 - Feb 2025",
+      "description": "Developing 'The Quaero,' a cybersecurity SaaS platform using the MERN stack. Implementing an admin panel, user authentication, and dynamic content management."
+    },
+    {
+      "title": "DevIgnite Hackathon",
+      "category": "Hackathons",
+      "date": "March 2, 2024",
+      "description": "Explored challenges in the cloud and DevOps domains through hands-on problem-solving."
+    },
+    {
+      "title": "SHARK-A-THON",
+      "category": "Competitions",
+      "date": "March 26, 2024",
+      "description": "Presented an innovative startup idea in a competitive environment."
+    },
+    {
+      "title": "Project Exhibition Contest - Idea Unboxed",
+      "category": "Competitions",
+      "date": "Feb 20, 2024",
+      "description": "Showcased a creative project idea in an exhibition-style contest."
+    }
+  ]
+}
