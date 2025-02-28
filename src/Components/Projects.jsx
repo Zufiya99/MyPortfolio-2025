@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { FaExternalLinkAlt, FaGithub } from "react-icons/fa"; // Import icons
+import { FaExternalLinkAlt, FaGithub } from "react-icons/fa";
 
 const Projects = () => {
   const [projects, setProjects] = useState([]);

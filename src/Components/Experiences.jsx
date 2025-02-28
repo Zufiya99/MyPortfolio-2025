@@ -12,14 +12,17 @@ const Experiences = () => {
         );
 
   return (
-    <section className="bg-chineseBlack text-white py-16 px-6 md:px-12" id="experiences">
+    <section
+      className="bg-chineseBlack text-white py-16 px-6 md:px-12"
+      id="experiences"
+    >
       <div className="max-w-6xl mx-auto">
         <h1 className="text-4xl font-extrabold text-center text-teal-400 mb-8">
           My Experiences
         </h1>
 
         {/* Category Tabs */}
-        <div className="flex justify-center gap-4 mb-8">
+        <div className="flex flex-wrap justify-center gap-4 mb-8">
           {experiencesData.categories.map((category) => (
             <button
               key={category}
@@ -36,12 +39,12 @@ const Experiences = () => {
         </div>
 
         {/* Experiences Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {filteredExperiences.map((exp, index) => (
             <div
               key={index}
               className="relative bg-gray-900 p-6 rounded-lg shadow-lg border-2 border-gray-700 transition-all duration-500 
-              hover:scale-102 hover:-translate-y-2 hover:border-teal-400 "
+              hover:scale-102 hover:-translate-y-2 hover:border-teal-400"
             >
               <h2 className="text-xl font-semibold text-teal-300">
                 {exp.title}
