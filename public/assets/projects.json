@@ -48,7 +48,14 @@
     "repoLink": "https://github.com/Zufiya99/BlogStack.git",
     "techStack": ["Next.js", "TypeScript", "Tailwind CSS"]
   },
-
+  {
+    "name": "SIH Yatra Website",
+    "image": "/assets/Yatra.png",
+    "description": "A web application developed during SIH 2023, aimed at enhancing the user experience for Smart India Hackathon participants and organizers.",
+    "liveLink": "https://sih-dashboard-dusky.vercel.app/",
+    "repoLink": "https://github.com/Zufiya99/SIH-Yatra-website",
+    "techStack": ["React JS", "Vercel", "Tailwind CSS", "Framer-motion"]
+  },
   {
     "name": "VoiceCraft",
     "image": "/assets/voicecraft.png",
@@ -90,35 +97,11 @@
   },
 
   {
-    "name": "SIH Yatra Website",
-    "image": "/assets/Yatra.png",
-    "description": "A web application developed during SIH 2023, aimed at enhancing the user experience for Smart India Hackathon participants and organizers.",
-    "liveLink": "https://sih-dashboard-dusky.vercel.app/",
-    "repoLink": "https://github.com/Zufiya99/SIH-Yatra-website",
-    "techStack": ["React JS", "Vercel"]
-  },
-  {
     "name": "Drum Kit Game",
     "image": "/assets/drum-kit-game.png",
     "description": "An interactive and fun drum kit game built with JavaScript, allowing users to play various drum sounds using keyboard inputs.",
     "liveLink": "https://drum-kit-game-js.netlify.app/",
     "repoLink": "https://github.com/Zufiya99/Drum-Kit",
     "techStack": ["HTML", "CSS", "JavaScript"]
-  },
-
-  {
-    "name": "Keepers App",
-    "image": "/assets/keepers-app.png",
-    "description": "A minimalistic and efficient note-keeping app developed using React, enabling users to store and manage notes.",
-    "liveLink": "https://keeper-app-using-react-js-lac.vercel.app/",
-    "repoLink": "https://github.com/Zufiya99/Keeper-App-using-React.js",
-    "techStack": ["React JS", "Vercel"]
-  },
-  {
-    "name": "Supermarket Data Analysis",
-    "image": "/assets/supermarket-analysis.png",
-    "description": "A data analytics project that provides valuable insights into supermarket sales trends and customer purchasing behavior.",
-    "repoLink": "https://github.com/Zufiya99/Supermarket-data-analysis",
-    "techStack": ["Python", "Jupyter Notebook"]
   }
 ]
