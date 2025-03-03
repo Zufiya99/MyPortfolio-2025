@@ -28,7 +28,7 @@
     "image": "/assets/AI-career-coach.png",
     "description": "An AI-powered career coaching platform that offers personalized career guidance based on user skills, industry trends, and AI-driven recommendations.",
     "repoLink": "https://github.com/Zufiya99/NextStep-AI.git",
-    "liveLink": "http://localhost:3000/",
+    "liveLink": "https://nextstep-ai-career-coach.vercel.app",
     "techStack": [
       "React JS 19",
       "Next JS 15",
